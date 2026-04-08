@@ -1,0 +1,595 @@
+{
+  "updated": "2026-04-08 21:26 HKT",
+  "stocks": [
+    {
+      "ticker": "5706.T",
+      "name": "三井金属",
+      "sector": "raw_mat",
+      "price": 35000.0,
+      "change_pct": 10.94,
+      "pe": 42.8,
+      "mkt_cap_b": 2002.5,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "5801.T",
+      "name": "古河电工",
+      "sector": "raw_mat",
+      "price": 42940.0,
+      "change_pct": 17.61,
+      "pe": 85.8,
+      "mkt_cap_b": 3020.8,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "301511.SZ",
+      "name": "德福科技",
+      "sector": "raw_mat",
+      "price": 41.19,
+      "change_pct": 4.28,
+      "pe": 1029.8,
+      "mkt_cap_b": 26.0,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "301217.SZ",
+      "name": "铜冠铜箔",
+      "sector": "raw_mat",
+      "price": 42.18,
+      "change_pct": 3.36,
+      "pe": 4218.0,
+      "mkt_cap_b": 35.0,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "301389.SZ",
+      "name": "隆扬电子",
+      "sector": "raw_mat",
+      "price": 53.3,
+      "change_pct": 10.35,
+      "pe": 136.7,
+      "mkt_cap_b": 15.1,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "8358.TW",
+      "name": "金居开发",
+      "sector": "raw_mat",
+      "price": null,
+      "change_pct": null,
+      "pe": null,
+      "mkt_cap_b": null,
+      "currency": null
+    },
+    {
+      "ticker": "336370.KS",
+      "name": "索路思Solus",
+      "sector": "raw_mat",
+      "price": 9510.0,
+      "change_pct": 3.82,
+      "pe": 31.6,
+      "mkt_cap_b": 864.4,
+      "currency": "KRW"
+    },
+    {
+      "ticker": "3110.T",
+      "name": "日东纺",
+      "sector": "raw_mat",
+      "price": 24850.0,
+      "change_pct": 14.73,
+      "pe": 63.4,
+      "mkt_cap_b": 904.7,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "3407.T",
+      "name": "旭化成",
+      "sector": "raw_mat",
+      "price": 1650.0,
+      "change_pct": 6.8,
+      "pe": 16.0,
+      "mkt_cap_b": 2238.1,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "002080.SZ",
+      "name": "中材科技",
+      "sector": "raw_mat",
+      "price": 43.73,
+      "change_pct": 7.52,
+      "pe": 40.5,
+      "mkt_cap_b": 73.4,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "603256.SS",
+      "name": "宏和科技",
+      "sector": "raw_mat",
+      "price": 74.17,
+      "change_pct": 7.49,
+      "pe": 412.1,
+      "mkt_cap_b": 67.1,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "300395.SZ",
+      "name": "菲利华",
+      "sector": "raw_mat",
+      "price": 100.04,
+      "change_pct": 5.36,
+      "pe": 125.0,
+      "mkt_cap_b": 52.2,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "301526.SZ",
+      "name": "国际复材",
+      "sector": "raw_mat",
+      "price": 12.3,
+      "change_pct": 7.42,
+      "pe": 615.0,
+      "mkt_cap_b": 46.4,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "600176.SS",
+      "name": "中国巨石",
+      "sector": "raw_mat",
+      "price": 27.35,
+      "change_pct": 3.87,
+      "pe": 33.4,
+      "mkt_cap_b": 109.5,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "4182.T",
+      "name": "MGC三菱瓦斯",
+      "sector": "raw_mat",
+      "price": 4217.0,
+      "change_pct": 7.28,
+      "pe": 15.3,
+      "mkt_cap_b": 821.2,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "605589.SS",
+      "name": "圣泉集团",
+      "sector": "raw_mat",
+      "price": 35.77,
+      "change_pct": 0.28,
+      "pe": 28.8,
+      "mkt_cap_b": 30.3,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "2383.TW",
+      "name": "台光电子",
+      "sector": "ccl",
+      "price": 3170.0,
+      "change_pct": 9.88,
+      "pe": 77.9,
+      "mkt_cap_b": 1135.9,
+      "currency": "TWD"
+    },
+    {
+      "ticker": "6213.TWO",
+      "name": "联茂电子",
+      "sector": "ccl",
+      "price": null,
+      "change_pct": null,
+      "pe": null,
+      "mkt_cap_b": null,
+      "currency": null
+    },
+    {
+      "ticker": "6274.TWO",
+      "name": "台燿科技",
+      "sector": "ccl",
+      "price": 725.0,
+      "change_pct": 6.15,
+      "pe": 60.3,
+      "mkt_cap_b": 209.3,
+      "currency": "TWD"
+    },
+    {
+      "ticker": "600183.SS",
+      "name": "生益科技",
+      "sector": "ccl",
+      "price": 58.98,
+      "change_pct": 6.85,
+      "pe": 50.8,
+      "mkt_cap_b": 143.3,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "603186.SS",
+      "name": "华正新材",
+      "sector": "ccl",
+      "price": 70.87,
+      "change_pct": 6.93,
+      "pe": 37.3,
+      "mkt_cap_b": 11.1,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "1888.HK",
+      "name": "建滔积层板",
+      "sector": "ccl",
+      "price": 22.24,
+      "change_pct": 12.49,
+      "pe": 28.5,
+      "mkt_cap_b": 69.7,
+      "currency": "HKD"
+    },
+    {
+      "ticker": "6752.T",
+      "name": "Panasonic",
+      "sector": "ccl",
+      "price": 2955.5,
+      "change_pct": 4.23,
+      "pe": 21.6,
+      "mkt_cap_b": 6900.1,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "ROG",
+      "name": "Rogers",
+      "sector": "ccl",
+      "price": 107.49,
+      "change_pct": 1.6,
+      "pe": 26.5,
+      "mkt_cap_b": 1.9,
+      "currency": "USD"
+    },
+    {
+      "ticker": "002938.SZ",
+      "name": "鹏鼎控股",
+      "sector": "pcb",
+      "price": 54.67,
+      "change_pct": 7.34,
+      "pe": 34.0,
+      "mkt_cap_b": 126.7,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "3037.TW",
+      "name": "欣兴电子",
+      "sector": "pcb",
+      "price": 620.0,
+      "change_pct": 9.93,
+      "pe": 142.9,
+      "mkt_cap_b": 976.2,
+      "currency": "TWD"
+    },
+    {
+      "ticker": "2368.TW",
+      "name": "金像电子",
+      "sector": "pcb",
+      "price": 998.0,
+      "change_pct": 7.66,
+      "pe": 52.5,
+      "mkt_cap_b": 499.0,
+      "currency": "TWD"
+    },
+    {
+      "ticker": "3044.TW",
+      "name": "健鼎科技",
+      "sector": "pcb",
+      "price": 370.0,
+      "change_pct": 3.64,
+      "pe": 19.1,
+      "mkt_cap_b": 194.5,
+      "currency": "TWD"
+    },
+    {
+      "ticker": "002463.SZ",
+      "name": "沪电股份",
+      "sector": "pcb",
+      "price": 84.07,
+      "change_pct": 10.0,
+      "pe": 42.7,
+      "mkt_cap_b": 161.8,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "300476.SZ",
+      "name": "胜宏科技",
+      "sector": "pcb",
+      "price": 285.88,
+      "change_pct": 7.93,
+      "pe": 57.1,
+      "mkt_cap_b": 249.4,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "688183.SS",
+      "name": "生益电子",
+      "sector": "pcb",
+      "price": 90.58,
+      "change_pct": 11.91,
+      "pe": 61.2,
+      "mkt_cap_b": 75.3,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "002916.SZ",
+      "name": "深南电路",
+      "sector": "pcb",
+      "price": 237.51,
+      "change_pct": 10.0,
+      "pe": 48.5,
+      "mkt_cap_b": 161.8,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "4062.T",
+      "name": "Ibiden",
+      "sector": "ic_sub",
+      "price": 9794.0,
+      "change_pct": 12.34,
+      "pe": 82.6,
+      "mkt_cap_b": 2734.9,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "6967.T",
+      "name": "Shinko",
+      "sector": "ic_sub",
+      "price": null,
+      "change_pct": null,
+      "pe": null,
+      "mkt_cap_b": null,
+      "currency": null
+    },
+    {
+      "ticker": "2802.T",
+      "name": "味之素",
+      "sector": "ic_sub",
+      "price": 4776.0,
+      "change_pct": 3.87,
+      "pe": 126.7,
+      "mkt_cap_b": 4584.4,
+      "currency": "JPY"
+    },
+    {
+      "ticker": "8046.TW",
+      "name": "南亚电路板",
+      "sector": "ic_sub",
+      "price": 637.0,
+      "change_pct": 2.08,
+      "pe": 212.3,
+      "mkt_cap_b": 411.6,
+      "currency": "TWD"
+    },
+    {
+      "ticker": "3264.TW",
+      "name": "景硕科技",
+      "sector": "ic_sub",
+      "price": null,
+      "change_pct": null,
+      "pe": null,
+      "mkt_cap_b": null,
+      "currency": null
+    },
+    {
+      "ticker": "009150.KS",
+      "name": "三星电机",
+      "sector": "ic_sub",
+      "price": 514000.0,
+      "change_pct": 12.47,
+      "pe": 23.8,
+      "mkt_cap_b": 38831.3,
+      "currency": "KRW"
+    },
+    {
+      "ticker": "ATS.VI",
+      "name": "AT&S",
+      "sector": "ic_sub",
+      "price": 63.5,
+      "change_pct": 8.55,
+      "pe": 19.2,
+      "mkt_cap_b": 2.5,
+      "currency": "EUR"
+    },
+    {
+      "ticker": "600584.SS",
+      "name": "长电科技",
+      "sector": "cowos",
+      "price": 41.98,
+      "change_pct": 8.14,
+      "pe": 50.6,
+      "mkt_cap_b": 75.1,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "002156.SZ",
+      "name": "通富微电",
+      "sector": "cowos",
+      "price": 44.65,
+      "change_pct": 8.4,
+      "pe": 68.7,
+      "mkt_cap_b": 67.8,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "002436.SZ",
+      "name": "兴森科技",
+      "sector": "cowos",
+      "price": 21.75,
+      "change_pct": 7.3,
+      "pe": 48.4,
+      "mkt_cap_b": 37.0,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "sector": "optical_chip",
+      "price": 333.97,
+      "change_pct": 6.21,
+      "pe": 65.0,
+      "mkt_cap_b": 1583.4,
+      "currency": "USD"
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell",
+      "sector": "optical_chip",
+      "price": 109.38,
+      "change_pct": -0.12,
+      "pe": 35.6,
+      "mkt_cap_b": 95.6,
+      "currency": "USD"
+    },
+    {
+      "ticker": "LITE",
+      "name": "Lumentum",
+      "sector": "optical_chip",
+      "price": 815.75,
+      "change_pct": 5.63,
+      "pe": 234.4,
+      "mkt_cap_b": 58.2,
+      "currency": "USD"
+    },
+    {
+      "ticker": "688498.SS",
+      "name": "源杰科技",
+      "sector": "optical_chip",
+      "price": 1137.0,
+      "change_pct": 5.57,
+      "pe": 503.1,
+      "mkt_cap_b": 97.7,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "300394.SZ",
+      "name": "天孚通信",
+      "sector": "optical_chip",
+      "price": 337.0,
+      "change_pct": 6.19,
+      "pe": 143.4,
+      "mkt_cap_b": 262.0,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "002281.SZ",
+      "name": "光迅科技",
+      "sector": "optical_chip",
+      "price": 98.26,
+      "change_pct": 6.39,
+      "pe": 84.0,
+      "mkt_cap_b": 79.3,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "300620.SZ",
+      "name": "光库科技",
+      "sector": "optical_chip",
+      "price": 222.02,
+      "change_pct": 1.24,
+      "pe": 317.2,
+      "mkt_cap_b": 55.3,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "688048.SS",
+      "name": "长光华芯",
+      "sector": "optical_chip",
+      "price": 238.68,
+      "change_pct": 4.46,
+      "pe": 1404.0,
+      "mkt_cap_b": 42.1,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "300308.SZ",
+      "name": "中际旭创",
+      "sector": "optical_mod",
+      "price": 688.14,
+      "change_pct": 11.07,
+      "pe": 70.7,
+      "mkt_cap_b": 764.6,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "300502.SZ",
+      "name": "新易盛",
+      "sector": "optical_mod",
+      "price": 501.5,
+      "change_pct": 9.33,
+      "pe": 66.2,
+      "mkt_cap_b": 498.5,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "sector": "optical_mod",
+      "price": 255.1,
+      "change_pct": 0.74,
+      "pe": 250.1,
+      "mkt_cap_b": 47.8,
+      "currency": "USD"
+    },
+    {
+      "ticker": "000988.SZ",
+      "name": "华工科技",
+      "sector": "optical_mod",
+      "price": 110.41,
+      "change_pct": 5.96,
+      "pe": 75.1,
+      "mkt_cap_b": 111.0,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "603083.SS",
+      "name": "剑桥科技",
+      "sector": "optical_mod",
+      "price": 111.55,
+      "change_pct": 10.0,
+      "pe": 118.7,
+      "mkt_cap_b": 39.3,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "601869.SS",
+      "name": "长飞光纤",
+      "sector": "optical_infra",
+      "price": 362.1,
+      "change_pct": 1.4,
+      "pe": 338.4,
+      "mkt_cap_b": 297.6,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "600487.SS",
+      "name": "亨通光电",
+      "sector": "optical_infra",
+      "price": 58.56,
+      "change_pct": -0.24,
+      "pe": 49.6,
+      "mkt_cap_b": 144.4,
+      "currency": "CNY"
+    },
+    {
+      "ticker": "GLW",
+      "name": "Corning",
+      "sector": "optical_infra",
+      "price": 148.52,
+      "change_pct": 1.38,
+      "pe": 81.2,
+      "mkt_cap_b": 127.6,
+      "currency": "USD"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "sector": "glass",
+      "price": 52.91,
+      "change_pct": 4.19,
+      "pe": 52.7,
+      "mkt_cap_b": 265.7,
+      "currency": "USD"
+    }
+  ]
+}
