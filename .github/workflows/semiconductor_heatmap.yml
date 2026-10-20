@@ -4,7 +4,7 @@ on:
   # Run on weekdays at 17:30 HKT (09:30 UTC), after US market opens and
   # Asian/European markets are settled, so most tickers have fresh data.
   schedule:
-    - cron: '30 9 * * 1-5'
+  #  - cron: '30 9 * * 1-5'
   workflow_dispatch:
 
 permissions:
