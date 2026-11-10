@@ -2,7 +2,7 @@
 
 on:
   # Run on weekdays at 16:15 HKT (08:15 UTC), after Asian markets close.
-  schedule:
+  # schedule:
   #  - cron: '15 8 * * 1-5'
   workflow_dispatch:
 
