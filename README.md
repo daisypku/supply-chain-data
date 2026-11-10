@@ -1,4 +1,4 @@
-#两个workflow都被我用注释cron的方式暂停了
+#261110:把semiconductor的workflow重新打开了。其它仍然暂停
  # supply-chain-data
 
 Static JSON data and generators for GitHub Pages heatmaps.
