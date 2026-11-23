@@ -1,10 +1,19 @@
-﻿name: Supply Chain Heatmap
+name: Supply Chain Heatmap
 
 on:
   # Run on weekdays at 16:15 HKT (08:15 UTC), after Asian markets close.
-  # schedule:
-  #  - cron: '15 8 * * 1-5'
+  schedule:
+    - cron: '15 8 * * 1-5'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/supply_chain_heatmap.yml'
+      - 'scripts/supply_chain_heatmap.py'
   workflow_dispatch:
+
+concurrency:
+  group: supply-chain-heatmap
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -39,4 +48,5 @@ jobs:
           git add supply_chain_heatmap.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Update heatmap data $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
